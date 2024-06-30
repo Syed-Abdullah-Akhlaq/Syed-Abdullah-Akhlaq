@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **3const.**
+- 🔭 I’m currently working on **Saif Inspirations.**
 
 - 🌱 I’m currently learning **Django Restframework and python.**
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/abdullah akhlaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah akhlaq" height="30" width="40" /></a>
-<a href="https://instagram.com/abdullah__akhlaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullah.akhlaque" height="30" width="40" /></a>
+<a href="https://instagram.com/abdullah__akhlaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullah__akhlaq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
